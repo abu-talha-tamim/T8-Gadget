@@ -1,0 +1,138 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "MacBook Pro",
+    "product_image": "https://i.ibb.co.com/h2sgT2C/gettyimages-1229985825-612x612.jpg",
+    "category": "Computers",
+    "price": 1200,
+    "description": "The latest high-performance laptop for professionals.",
+    "specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 2,
+    "product_title": "OPPO X",
+    "product_image": "https://i.ibb.co.com/mbD050C/OPPO-X-5.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "A top-of-the-line smartphone with cutting-edge features.",
+    "specification": ["128GB Storage", "6.5-inch OLED Display", "5G Support"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 3,
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://i.ibb.co.com/YQ9VHNM/Wireless-Earbuds-5.jpg",
+    "category": "Accessories",
+    "price": 199,
+    "description": "High-quality wireless earbuds with noise-cancellation.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Active Noise Cancellation",
+      "20 Hours Battery"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 4,
+    "product_title": "Apple Watch 6",
+    "product_image": "https://i.ibb.co.com/4sFk746/Apple-Watch.jpg",
+    "category": "Smart Watches",
+    "price": 349,
+    "description": "Advanced smartwatch with health tracking and GPS.",
+    "specification": ["Heart Rate Monitor", "GPS", "Waterproof"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 5,
+    "product_title": "MacBook Air 2024",
+    "product_image": "https://i.ibb.co.com/FwDcqLN/Mac-Book-Air-5.jpg",
+    "category": "Computers",
+    "price": 1099,
+    "description": "The lightest and most efficient MacBook Air yet.",
+    "specification": ["8GB RAM", "256GB SSD", "Apple M1 Chip"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 6,
+    "product_title": "iPhone 15",
+    "product_image": "https://i.ibb.co.com/9rMMVWq/iPhone.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "The latest iPhone with advanced camera technology.",
+    "specification": ["128GB Storage", "Dual Camera", "Face ID"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "Wireless Charger",
+    "product_image": "https://i.ibb.co.com/KWqG6Cx/Wireless-Charger.jpg",
+    "category": "Chargers",
+    "price": 75,
+    "description": "Fast wireless charger for all compatible devices.",
+    "specification": ["Fast Charging", "Qi Compatible", "Compact Design"],
+    "availability": false,
+    "rating": 4.2
+  },
+  {
+    "product_id": 14,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/QPt97hm/Dell-XPS-13.jpg",
+    "category": "Computers",
+    "price": 1250,
+    "description": "Ultra-thin laptop with high-resolution display and powerful performance.",
+    "specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 15,
+    "product_title": "Samsung-Galaxy-S22",
+    "product_image": "https://i.ibb.co.com/dkwFT9w/Samsung-Galaxy-S22.jpg",
+    "category": "Phones",
+    "price": 899,
+    "description": "Flagship smartphone with advanced camera and performance.",
+    "specification": ["256GB Storage", "6.1-inch AMOLED Display", "5G Support"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 16,
+    "product_title": "Beats Studio Buds",
+    "product_image": "https://i.ibb.co.com/27jn1pB/Beats-Studio-Buds.jpg",
+    "category": "Accessories",
+    "price": 149,
+    "description": "Wireless earbuds with active noise cancellation and rich sound quality.",
+    "specification": ["Bluetooth 5.0", "ANC", "24 Hours Battery"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 17,
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/N1M0Cs9/Fitbit-Versa-3.jpg",
+    "category": "Smart Watches",
+    "price": 229,
+    "description": "Smartwatch with GPS, heart rate tracking, and voice assistant.",
+    "specification": ["Heart Rate Monitor", "GPS", "Sleep Tracking"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 18,
+    "product_title": "Anker PowerPort Wireless",
+    "product_image": "https://i.ibb.co.com/MG5GdmR/Anker-Power-Port-Wireless.jpg",
+    "category": "Chargers",
+    "price": 60,
+    "description": "Compact wireless charger with fast-charging capabilities.",
+    "specification": ["Qi Compatible", "Fast Charging", "Portable Design"],
+    "availability": false,
+    "rating": 4.3
+  }
+]
