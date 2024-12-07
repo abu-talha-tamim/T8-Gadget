@@ -1,6 +1,7 @@
 import React from 'react';
-import Hero from '../components/hero';
-import Categorysection from './Categorysection';
+import Hero from './../components/Hero';
+import Categorysection from './Categorysection'; 
+
 
 const Home = () => {
     return (
